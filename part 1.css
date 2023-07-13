@@ -1,0 +1,51 @@
+<style>
+  .left {
+    float: left;
+  
+  }
+      
+  .right {
+    float: right;
+    margin-right: 10px;
+  }
+  .left,.right {
+    display: inline-block;
+    margin-top: -80px;
+
+  }
+
+
+  .contact-button {
+    height:60px;
+    width:135px;
+    cursor: pointer;
+    background-color: rgb(93, 219, 219);
+    border-radius: 6px;
+            
+  }
+  .contact-button:hover {
+    background-color: rgb(233, 8, 94);
+    box-shadow: 10px 10px 9px black;
+    
+  }
+  .contact-button:active {
+    opacity: 0.5;
+  }
+  .youtubelogo-button {
+    cursor: pointer;
+    background-color: rgb(200, 0, 0);
+    width: 65px;
+    height: 32px;
+    border-radius: 6px;
+    border-color: rgb(200, 0, 0);
+    color: white;
+  }
+  .youtubelogo-button:hover {
+    box-shadow: 10px 10px 9px black;
+    background-color: blue;
+    
+  }
+  .youtubelogo-button:active {
+    opacity: 0.5;
+  }
+</style>
