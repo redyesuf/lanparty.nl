@@ -6,7 +6,7 @@
       
   .right {
     float: right;
-    margin-right: 10px;
+    
   }
   .left,.right {
     display: inline-block;
